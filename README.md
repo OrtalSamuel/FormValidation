@@ -18,8 +18,7 @@ The library creates the form and validates details such as username, password, e
 ## Screenshots
 
 <div>
-  <img src="![Screenshot_20240825_205023](https://github.com/user-attachments/assets/ce665b5c-0c5a-411a-ba60-a2230159cacd)
-" width="200" height="300"/>
+  <img src="https://github.com/user-attachments/assets/ce665b5c-0c5a-411a-ba60-a2230159cacd" width="200" height="300"/>
   <img src="https://github.com/lironshish/FormValidation/assets/62293320/7bb00e33-276f-4a39-8d59-87f788e54cde.png" width="200" height="300"/>
   <img src="https://github.com/lironshish/FormValidation/assets/62293320/0c563abf-dfb6-4c01-a2fc-f66b3ded4271.png" width="200" height="300"/>
   <img src="https://github.com/lironshish/FormValidation/assets/62293320/b2427c35-d861-45d8-9ec0-1e07e17b1811.png" width="200" height="300"/>
